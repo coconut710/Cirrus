@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {
+                    "type": "ttf",
+                    "file": "elicedigitalbaeumbold.ttf",
+                    "shift": [0, 0.7],
+                    "size": 9.6,
+                    "oversample": 5.0,
+                    "skip": ""
+                }
+        ]
+}
